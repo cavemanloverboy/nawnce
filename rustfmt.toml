@@ -1,0 +1,4 @@
+max_width = 72
+chain_width = 20
+comment_width = 72
+wrap_comments = true
